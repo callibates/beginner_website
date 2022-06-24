@@ -1,2 +1,5 @@
-<h1>Bootstrap Docs</h1>
-<a src="https://getbootstrap.com/docs/5.2">Docs</a>
+<h1>Foundational Materials and Exercises for Web Development</h1>
+<ul>
+    <li>javascript</li>
+    <li>html</li>
+</ul>
